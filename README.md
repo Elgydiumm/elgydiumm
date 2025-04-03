@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Elgydium
+# Who am I?
 
-- I'm a Finnish developer
-- I know Java, Typescript and Python and others
-- I enjoy programming, and work on various projects on my freetime
+- I'm from Finland and code things that are interesting for me
+- I have experience using modern front-end platforms like Svelte and React.ts, but also like working with things like Python and Java
+- I'm also interested in microelectronics and robotics
